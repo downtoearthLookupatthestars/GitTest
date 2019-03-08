@@ -13,6 +13,7 @@
 		8A3281ED2231109300EFD869 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A3281EC2231109300EFD869 /* Assets.xcassets */; };
 		8A3281F02231109300EFD869 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A3281EE2231109300EFD869 /* LaunchScreen.storyboard */; };
 		8A3281F32231109300EFD869 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A3281F22231109300EFD869 /* main.m */; };
+		8A4EFEEA22320DB400748434 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A4EFEE922320DB400748434 /* MapViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		8A3281EF2231109300EFD869 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A3281F12231109300EFD869 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8A3281F22231109300EFD869 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8A4EFEE822320DB400748434 /* MapViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		8A4EFEE922320DB400748434 /* MapViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				8A3281E42231109200EFD869 /* AppDelegate.m */,
 				8A3281E62231109200EFD869 /* ViewController.h */,
 				8A3281E72231109200EFD869 /* ViewController.m */,
+				8A4EFEE822320DB400748434 /* MapViewController.h */,
+				8A4EFEE922320DB400748434 /* MapViewController.m */,
 				8A3281E92231109200EFD869 /* Main.storyboard */,
 				8A3281EC2231109300EFD869 /* Assets.xcassets */,
 				8A3281EE2231109300EFD869 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				8A3281E82231109200EFD869 /* ViewController.m in Sources */,
 				8A3281F32231109300EFD869 /* main.m in Sources */,
 				8A3281E52231109200EFD869 /* AppDelegate.m in Sources */,
+				8A4EFEEA22320DB400748434 /* MapViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
