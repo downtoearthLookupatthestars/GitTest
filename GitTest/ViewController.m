@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"hello world");
     NSLog(@"nihao");
+    NSLog(@"北京现代");
     // Do any additional setup after loading the view, typically from a nib.
 }
 @end
